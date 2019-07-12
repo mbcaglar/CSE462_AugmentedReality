@@ -1,0 +1,10 @@
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\bin\Debug\Hw2_AR_141044073.exe.config
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\bin\Debug\Hw2_AR_141044073.exe
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\bin\Debug\Hw2_AR_141044073.pdb
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\bin\Debug\MathNet.Numerics.dll
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\bin\Debug\MathNet.Numerics.xml
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\obj\Debug\Hw2_AR_141044073.csprojAssemblyReference.cache
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\obj\Debug\Hw2_AR_141044073.csproj.CoreCompileInputs.cache
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\obj\Debug\Hw2_AR_141044073.csproj.CopyComplete
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\obj\Debug\Hw2_AR_141044073.exe
+C:\Users\BEDO\source\repos\Homography\Hw2_AR_141044073\obj\Debug\Hw2_AR_141044073.pdb
